@@ -47,3 +47,8 @@ package-lock.json
 .eslintcache
 dist/
 build/
+
+# Test directories and cache #
+##################################
+Tests/*
+.vitest

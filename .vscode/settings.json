@@ -1,10 +1,10 @@
 {
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "workbench.sideBar.visible": false,
     "workbench.panel.defaultLocation": "bottom",
     "workbench.editor.showTabs": "none",
-    "breadcrumbs.enabled": false,
-    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": true,
+    "editor.minimap.enabled": true,
     "workbench.startupEditor": "none",
     "terminal.integrated.hideOnLastClosed": false,
     "github.copilot.enable": {
